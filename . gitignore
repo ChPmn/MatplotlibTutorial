@@ -1,0 +1,6 @@
+# ignore the checkpoint file.
+.ipynb_checkpoints
+
+# ignore custom attributes of the working directory.
+.DS_store
+
